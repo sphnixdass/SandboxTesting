@@ -18,7 +18,7 @@ function App() {
       {true ? (
         <div>
           <h1 className={classes}>Hello CodeSandbox</h1>
-          <h2>Start editing to see some magic happen!</h2>
+          <h2>Start!</h2>
           <Component1 />
         </div>
       ) : null}
